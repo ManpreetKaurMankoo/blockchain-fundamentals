@@ -1,12 +1,5 @@
 # blockchain-fundamentals, Solidity, Smart Contracts:
 
-Links from course: https://www.youtube.com/watch?v=umepbfKp5rI
-https://github.com/Cyfrin/foundry-full-course-f23?tab=readme-ov-file
-https://sepolia.etherscan.io/tx/0xeb1aa7f5d056cdf0f48b2b984c09da00b80abe45c5ff737005b2693df3a9ff3f
-https://faucets.chain.link/
-https://andersbrownworth.com/blockchain/hash
-https://ethereum.org/en/
-
 ===================================== Lesson 0: Blockchain Basics ================================
 
 Blockchains:
